@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection-Deployment
 
-[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/data) ![Python 3.7.7](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+[Python 3.7.7](https://img.shields.io/badge/Python-3.7.7-brightgreen.svg)
 
 ### Problem statement:
 A DL Classification project that helps in identifying brain tumor.
@@ -29,6 +29,10 @@ $ pip install -r requirements.txt
 
 - Run test.py to check the results on new images.
 
+- Now  run **app.py** on terminal to start local server.
+```console
+$ python app.py
+```
 • Please do ⭐ the repository, if it helped you in anyway.
 
 
