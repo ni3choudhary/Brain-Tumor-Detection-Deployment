@@ -25,6 +25,8 @@ Install Libraries using below command or you can use conda commands also for ins
 ```console
 $ pip install -r requirements.txt
 ```
+- Extract the data zip file to use data for model training and testing.
+
 - Run train.py to get the model file.
 
 - Run test.py to check the results on new images.
